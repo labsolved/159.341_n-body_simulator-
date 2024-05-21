@@ -1,4 +1,5 @@
 # 159.341 n-body_simulator (Programming Languages, Algorithms and Concurrency (159.341))
+reach us for help: labsolved@gmail.com
 Problem to solve:
 A reference (sequential) implementation of an n-body simulator is available on the course stream site.
 This program simulates the motion of a number of bodies (planets, particles etc) with an attractive
